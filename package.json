@@ -1,0 +1,50 @@
+{
+  "name": "life-os",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/run-next.mjs dev --webpack --hostname 127.0.0.1",
+    "build": "node scripts/run-next.mjs build --webpack",
+    "start": "node scripts/run-next.mjs start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "check:supabase": "node scripts/check-supabase.mjs",
+    "test": "vitest run",
+    "test:db": "vitest run tests/database-schema.test.ts tests/database-audit.test.ts",
+    "test:db:native": "node scripts/test-native-db.mjs",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.57.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.468.0",
+    "motion": "^12.23.12",
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-hook-form": "^7.62.0",
+    "tailwind-merge": "^3.3.1",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.12",
+    "@next/swc-wasm-nodejs": "^16.4.3",
+    "@playwright/test": "^1.64.1",
+    "@tailwindcss/postcss": "^4.1.14",
+    "@types/node": "^24.7.2",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "embedded-postgres": "^18.4.0-beta.17",
+    "pg": "^8.23.1",
+    "tailwindcss": "^4.1.14",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.5",
+    "vitest": "^5.0.5"
+  }
+}

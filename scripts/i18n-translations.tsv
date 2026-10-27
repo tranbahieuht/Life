@@ -1,0 +1,742 @@
+Today	Hôm nay
+Calendar	Lịch
+Tasks	Công việc
+Nutrition	Ăn uống
+Workout	Tập luyện
+AI Planner	Trợ lý AI
+AI	AI
+Settings	Cài đặt
+Study	Học tập
+Work	Làm việc
+Personal	Cá nhân
+Rest	Nghỉ ngơi
+Day	Ngày
+Week	Tuần
+Month	Tháng
+Open	Chưa hoàn thành
+All	Tất cả
+Plans	Giáo án
+Sessions	Buổi tập
+History	Lịch sử
+Calories	Năng lượng
+Protein	Chất đạm
+Carbs	Tinh bột
+Fat	Chất béo
+YOUR WORKSPACE	KHÔNG GIAN CỦA BẠN
+My workspace	Không gian của tôi
+Main navigation	Điều hướng chính
+Mobile navigation	Điều hướng trên điện thoại
+LIFE OS home	Trang chủ LIFE OS
+Expand sidebar	Mở rộng thanh bên
+Collapse sidebar	Thu gọn thanh bên
+A little more intentional.	Mỗi ngày, chủ động hơn một chút.
+Make room for what matters.	Dành thời gian cho điều quan trọng.
+Plan with AI	Lên lịch cùng AI
+Light appearance	Giao diện sáng
+Dark appearance	Giao diện tối
+Personal workspace	Không gian cá nhân
+Demo workspace	Không gian trải nghiệm
+Local workspace	Không gian trên thiết bị
+Demo mode	Chế độ trải nghiệm
+Cloud workspace	Không gian đám mây
+Local mode	Chế độ trên thiết bị
+Workspace storage and backup	Lưu trữ và sao lưu dữ liệu
+Open reminders	Mở lời nhắc
+Open profile	Mở hồ sơ
+Quick add	Thêm nhanh
+Demo workspace · Sample activities are separate from your personal data.	Chế độ trải nghiệm · Lịch mẫu được lưu riêng với dữ liệu cá nhân.
+Leave demo	Thoát trải nghiệm
+Back in your personal workspace.	Đã trở về không gian cá nhân.
+Choose the workspace to keep	Chọn bản dữ liệu muốn giữ
+This device has unsynced changes. Both copies are backed up before your choice is applied.	Thiết bị có thay đổi chưa đồng bộ. Cả hai bản sẽ được sao lưu trước khi áp dụng lựa chọn.
+Export device copy	Xuất bản trên thiết bị
+Use cloud copy	Dùng bản đám mây
+Keep device copy	Giữ bản trên thiết bị
+Retry cloud save	Thử đồng bộ lại
+Export backup	Xuất bản sao lưu
+Import backup	Nhập bản sao lưu
+Your workspace backup is ready.	Bản sao lưu của bạn đã sẵn sàng.
+Choose a backup smaller than 5 MB.	Vui lòng chọn bản sao lưu nhỏ hơn 5 MB.
+Restore this workspace?	Khôi phục dữ liệu này?
+Workspace restored.	Đã khôi phục dữ liệu.
+This file is not a valid LIFE OS backup. Your workspace has not changed.	Tệp này không phải bản sao lưu LIFE OS hợp lệ. Dữ liệu hiện tại vẫn được giữ nguyên.
+Opening your day…	Đang mở lịch của bạn…
+A little structure. A lot more space to live.	Sắp xếp gọn hơn, tận hưởng ngày mới nhiều hơn.
+activities	 hoạt động
+completed	 đã hoàn thành
+remaining	 còn lại
+RIGHT NOW	ĐANG DIỄN RA
+ON THIS DAY	TRONG NGÀY NÀY
+Current activity	Đang diễn ra
+A moment for you	Một chút thời gian cho bạn
+Your own rhythm	Theo nhịp của bạn
+You have a little breathing room.	Bạn đang có thời gian rảnh.
+A day with possibility.	Một ngày có nhiều điều để mong chờ.
+No activity is scheduled for this moment.	Hiện chưa có hoạt động nào được lên lịch.
+Your activities, all in one thoughtful place.	Mọi hoạt động trong ngày, gọn gàng ở đây.
+Make a little plan	Lên lịch một hoạt động
+Complete	Hoàn thành
+View current activity	Xem hoạt động hiện tại
+left	còn lại
+UP NEXT	HOẠT ĐỘNG TIẾP THEO
+Next activity	Hoạt động tiếp theo
+That’s your day.	Hôm nay vậy là đủ rồi.
+Nothing on the horizon yet.	Chưa có hoạt động tiếp theo.
+Enjoy some time for yourself.	Dành chút thời gian cho bản thân nhé.
+Give your next good idea a time.	Chọn thời gian cho dự định tiếp theo của bạn.
+Your timeline	Lịch trình hôm nay
+Daily timeline	Lịch trình hôm nay
+One thing at a time. You’ve got this.	Cứ từng việc một, bạn sẽ làm được.
+Use comfortable view	Hiển thị thoải mái
+Use compact view	Hiển thị thu gọn
+Comfortable view	Hiển thị thoải mái
+Compact view	Hiển thị thu gọn
+Previous day	Ngày trước
+Next day	Ngày sau
+All activities	Tất cả hoạt động
+A fresh day. A little possibility.	Một ngày mới đang chờ bạn.
+Start with a class, a little focus time,	Bắt đầu bằng một buổi học, giờ tập trung,
+or something just for you.	hoặc một điều dành riêng cho bạn.
+Add your first activity	Thêm hoạt động đầu tiên
+Take a look around in demo mode	Khám phá với lịch mẫu
+Demo workspace opened with sample activities.	Đã mở không gian trải nghiệm với lịch mẫu.
+MAKE A LITTLE TIME FOR	DÀNH CHÚT THỜI GIAN CHO
+Learning	Học hỏi
+Movement	Vận động
+Yourself	Bản thân
+Upcoming	Sắp diễn ra
+In progress	Đang thực hiện
+Completed	Đã hoàn thành
+Not confirmed	Chưa xác nhận
+Skipped	Đã bỏ qua
+Fixed time	Giờ cố định
+NOW ·	ĐANG LÀM ·
+MIN LEFT	PHÚT CÒN LẠI
+Complete activity	Hoàn thành hoạt động
+Reopen	Mở lại
+Overlapping activity · review times	Trùng lịch · Hãy kiểm tra thời gian
+Schedule something	Thêm lịch vào khoảng trống
+Add an activity	Thêm hoạt động
+Make a little room for what matters	Dành thời gian cho điều quan trọng
+A good day ends with a little rest.	Cuối ngày, đừng quên nghỉ ngơi nhé.
+Plan your meals	Lên lịch bữa ăn
+Your daily rhythm	Tiến độ hôm nay
+activities complete	 hoạt động đã hoàn thành
+of	/
+A fresh start, on your terms.	Bắt đầu theo cách phù hợp với bạn.
+You showed up for your day. Enjoy a little rest.	Bạn đã hoàn thành tất cả hoạt động hôm nay. Làm tốt lắm!
+Progress, at your own pace.	Mỗi bước nhỏ đều đáng ghi nhận.
+On the horizon	Sắp đến hạn
+View all tasks	Xem tất cả công việc
+No deadlines on your mind.	Không có công việc sắp đến hạn.
+A nice place to start.	Cứ thong thả tận hưởng nhé.
+A LITTLE ASSISTANCE	THÊM MỘT CHÚT HỖ TRỢ
+Make space for	Dành thời gian cho
+a balanced day.	một ngày cân bằng.
+Let AI find room for your priorities, with your fixed plans kept in place.	Để AI sắp xếp việc quan trọng quanh những lịch cố định của bạn.
+Connect Gemini in your environment to get thoughtful schedule proposals.	Kết nối Gemini để nhận gợi ý sắp xếp lịch phù hợp với bạn.
+Let’s plan your day	Cùng sắp xếp ngày của bạn
+You’re always in control.	Bạn luôn là người quyết định.
+Previous month	Tháng trước
+Next month	Tháng sau
+Back to today	Về hôm nay
+Edit activity	Chỉnh sửa hoạt động
+Make time for something	Thêm hoạt động
+A little intention goes a long way.	Một chút chuẩn bị giúp ngày của bạn nhẹ nhàng hơn.
+Add in your own words	Nhập lịch theo cách của bạn
+Tomorrow at 16h gym for 90 minutes	Mai 16h tập gym 90 phút
+Fill form	Điền vào biểu mẫu
+Quick parsing fills a draft. You always review the exact time.	Thông tin chỉ được điền nháp. Bạn kiểm tra thời gian trước khi lưu nhé.
+Check the date, title, and times below before saving.	Kiểm tra tên hoạt động, ngày và giờ bên dưới trước khi lưu.
+Add an exact date and time below. Nothing has been saved.	Bổ sung ngày giờ chính xác bên dưới. Chưa có thông tin nào được lưu.
+Activity name	Tên hoạt động
+What would you like to do?	Bạn muốn dành thời gian cho việc gì?
+Category	Danh mục
+Activity category	Danh mục hoạt động
+Start date	Ngày bắt đầu
+End date	Ngày kết thúc
+Starts at	Giờ bắt đầu
+Ends at	Giờ kết thúc
+Description	Mô tả
+The details that matter…	Những điều cần ghi nhớ…
+Location	Địa điểm
+Room, gym, or a link	Phòng học, phòng tập hoặc đường dẫn
+Reminder	Lời nhắc
+No reminder	Không nhắc
+5 minutes before	Trước 5 phút
+10 minutes before	Trước 10 phút
+15 minutes before	Trước 15 phút
+30 minutes before	Trước 30 phút
+1 hour before	Trước 1 giờ
+Custom (set minutes below)	Tùy chỉnh số phút
+Minutes before	Nhắc trước bao nhiêu phút
+Lecturer / instructor	Giảng viên / người hướng dẫn
+Optional	Không bắt buộc
+AI keeps this in place	AI sẽ giữ nguyên giờ này
+Repeat weekly	Lặp hằng tuần
+Repeat until	Lặp đến ngày
+Apply changes to	Áp dụng thay đổi cho
+Only this occurrence	Chỉ lần này
+The entire recurring series	Toàn bộ lịch lặp
+Checklist & notes	Danh sách việc nhỏ và ghi chú
+Checklist	Danh sách việc nhỏ
+One item per line	Mỗi việc một dòng
+Notes	Ghi chú
+These times overlap	Các hoạt động đang trùng giờ
+You can adjust the time or save the overlap intentionally.	Bạn có thể đổi giờ hoặc chủ động giữ lịch trùng.
+Save with overlap	Vẫn lưu lịch trùng
+Save changes	Lưu thay đổi
+Add activity	Thêm hoạt động
+Cancel	Hủy
+Close dialog	Đóng hộp thoại
+Choose at least one weekday for a repeating activity.	Chọn ít nhất một ngày trong tuần để lặp lịch.
+Choose reminder minutes between 0 and 1440.	Số phút nhắc trước phải từ 0 đến 1440.
+Keep a single activity within seven days.	Mỗi hoạt động chỉ nên kéo dài tối đa 7 ngày.
+Repeat for up to two years, then extend the series when needed.	Lịch lặp tối đa 2 năm. Bạn có thể gia hạn khi cần.
+For a series, keep the occurrence date and choose the weekdays below. Move a single occurrence by choosing Only this occurrence.	Khi sửa cả lịch lặp, hãy giữ nguyên ngày và chọn các thứ bên dưới. Để dời một buổi, chọn Chỉ lần này.
+Please check the start and end dates and your timezone.	Vui lòng kiểm tra ngày bắt đầu, ngày kết thúc và múi giờ.
+Activity reopened.	Đã mở lại hoạt động.
+A little progress. Well done.	Thêm một việc hoàn thành. Bạn làm tốt lắm!
+Activity deleted.	Đã xóa hoạt động.
+Recurring series deleted.	Đã xóa lịch lặp.
+Activity updated.	Đã cập nhật hoạt động.
+A little intention added to your day.	Đã thêm hoạt động vào lịch của bạn.
+Repeats weekly	Lặp hằng tuần
+Fixed time · AI will keep this in place	Giờ cố định · AI sẽ giữ nguyên
+Your checklist	Danh sách việc nhỏ
+Checklist updated.	Đã cập nhật danh sách.
+Mark complete	Đánh dấu hoàn thành
+Reopen activity	Mở lại hoạt động
+Edit / reschedule	Chỉnh sửa / Dời lịch
+Restore	Khôi phục
+Skip for now	Bỏ qua lần này
+Activity restored.	Đã khôi phục hoạt động.
+Activity skipped. You can undo this.	Đã bỏ qua hoạt động. Bạn có thể hoàn tác.
+Delete	Xóa
+Delete series	Xóa lịch lặp
+Delete this activity?	Xóa hoạt động này?
+This removes only this occurrence from your timeline.	Chỉ buổi này sẽ được xóa khỏi lịch trình.
+You can undo this immediately after deleting.	Bạn có thể hoàn tác ngay sau khi xóa.
+Delete the recurring series?	Xóa toàn bộ lịch lặp?
+All occurrences and their saved exceptions will be removed. You can undo this immediately.	Tất cả các buổi và thay đổi riêng sẽ bị xóa. Bạn có thể hoàn tác ngay sau đó.
+Confirm	Xác nhận
+Undo	Hoàn tác
+Change undone.	Đã hoàn tác thay đổi.
+Dismiss message	Đóng thông báo
+Your reminders	Lời nhắc của bạn
+A gentle heads-up for what’s coming next.	Nhắc nhẹ để bạn sẵn sàng cho hoạt động tiếp theo.
+You’re all caught up.	Bạn đã xem hết lời nhắc.
+No upcoming activities today.	Hôm nay không còn hoạt động sắp diễn ra.
+Reminders work while LIFE OS is open. Browser alerts require notification permission in Settings.	Lời nhắc hoạt động khi LIFE OS đang mở. Bạn có thể bật thông báo trình duyệt trong Cài đặt.
+Your workspace	Dữ liệu của bạn
+. Back up or transfer your data whenever you like.	. Bạn có thể sao lưu hoặc chuyển dữ liệu bất cứ lúc nào.
+Account settings	Cài đặt tài khoản
+Sign in to sync	Đăng nhập để đồng bộ
+Your demo workspace	Không gian trải nghiệm của bạn
+Your cloud workspace	Không gian đám mây của bạn
+Your local workspace	Không gian trên thiết bị của bạn
+Changes sync to your personal Supabase account. A device copy helps keep your work available during connection problems.	Thay đổi được đồng bộ vào tài khoản Supabase cá nhân. Bản trên thiết bị giúp bạn tiếp tục sử dụng khi mất kết nối.
+Your activities are stored in this browser on this device. Sign in after connecting Supabase to use cloud sync. Local and demo data stay in separate workspaces.	Hoạt động được lưu trong trình duyệt trên thiết bị này. Kết nối Supabase và đăng nhập để đồng bộ đám mây. Dữ liệu cá nhân và lịch mẫu luôn được lưu riêng.
+Browser storage can be cleared. Export a backup to keep a portable copy.	Dữ liệu trình duyệt có thể bị xóa. Hãy xuất bản sao lưu để giữ một bản riêng.
+Manage account	Quản lý tài khoản
+Connect cloud sync	Kết nối đồng bộ đám mây
+A place for your life.	Một nơi dành cho cuộc sống của bạn.
+Make yourself at home.	Chào mừng bạn đến với LIFE OS.
+A fresh start.	Bắt đầu lại thật nhẹ nhàng.
+Choose a new password.	Chọn mật khẩu mới.
+Welcome to your space.	Chào mừng đến không gian của bạn.
+Your life. Beautifully organized.	Cuộc sống của bạn. Gọn gàng theo cách riêng.
+Personal settings	Cài đặt cá nhân
+Cloud sync is ready to connect.	Sẵn sàng kết nối đồng bộ đám mây.
+Add your Supabase project URL and public key to	Thêm địa chỉ dự án và khóa công khai Supabase vào
+, then apply the included database migration.	, sau đó áp dụng migration cơ sở dữ liệu đi kèm.
+Your local workspace is available now. Setup instructions are in README.md.	Bạn có thể dùng dữ liệu trên thiết bị ngay bây giờ. Hướng dẫn cấu hình có trong README.md.
+Continue with local workspace	Tiếp tục trên thiết bị này
+Change password	Đổi mật khẩu
+Sign out	Đăng xuất
+Signed out. Your local workspace is open.	Đã đăng xuất. Bạn đang dùng không gian trên thiết bị.
+Email address	Địa chỉ email
+Password	Mật khẩu
+Create account	Tạo tài khoản
+Send reset link	Gửi liên kết đặt lại
+Update password	Cập nhật mật khẩu
+Sign in	Đăng nhập
+Already have an account? Sign in	Đã có tài khoản? Đăng nhập
+New here? Create an account	Chưa có tài khoản? Đăng ký
+Back to sign in	Quay lại đăng nhập
+Forgot password?	Quên mật khẩu?
+Welcome back. Your workspace is opening.	Chào mừng bạn trở lại. Đang mở dữ liệu của bạn.
+Password updated.	Đã cập nhật mật khẩu.
+Check your email to confirm your account.	Kiểm tra email để xác nhận tài khoản nhé.
+Check your email for the password reset link.	Kiểm tra email để nhận liên kết đặt lại mật khẩu.
+We couldn’t complete that request. Please try again.	Chưa thể thực hiện yêu cầu. Vui lòng thử lại.
+THE BIGGER PICTURE	NHÌN LẠI CẢ TUẦN
+A little perspective.	Lịch của bạn, rõ ràng hơn.
+Your week, with room for life in between.	Sắp xếp cả tuần, vẫn có chỗ để nghỉ ngơi.
+Previous period	Khoảng thời gian trước
+Next period	Khoảng thời gian sau
+Filter calendar category	Lọc danh mục trên lịch
+University timetable	Thời khóa biểu
+Recurring classes appear automatically.	Lịch học lặp được tự động hiển thị.
+A little breathing room	Một khoảng trống để nghỉ ngơi
+Fixed	Cố định
+Add an activity in Study, then turn on weekly recurrence. Open an occurrence to change just that class, cancel a session, or edit the series.	Thêm hoạt động Học tập và bật lặp hằng tuần. Mở một buổi để đổi phòng, nghỉ học, dời riêng buổi đó hoặc sửa cả lịch lặp.
+ONE THING AT A TIME	CỨ TỪNG VIỆC MỘT
+Make space for progress.	Gọn việc trong đầu, rõ bước tiếp theo.
+New task	Thêm công việc
+Search tasks	Tìm công việc
+Find a task…	Tìm công việc…
+Low	Thấp
+Medium	Vừa
+High	Cao
+Overdue ·	Quá hạn ·
+Due	Hạn: 
+Schedule	Xếp lịch
+No matching tasks	Không tìm thấy công việc
+Progress will live here	Thành quả của bạn sẽ ở đây
+A clear mind starts here	Bắt đầu với một tâm trí nhẹ nhàng
+Try another word or switch your filter.	Thử từ khóa khác hoặc đổi bộ lọc nhé.
+Capture what’s on your mind. Give it a time when you’re ready.	Ghi lại điều cần làm. Bạn có thể xếp lịch khi sẵn sàng.
+Add a task	Thêm công việc
+Edit task	Chỉnh sửa công việc
+Something to work toward	Thêm một việc cần làm
+A deadline is when it’s due. You can schedule working time separately.	Hạn hoàn thành khác với giờ thực hiện. Bạn có thể xếp các phiên làm việc riêng.
+Task name	Tên công việc
+Finish the Java assignment	Hoàn thành bài tập Java
+Priority	Mức ưu tiên
+Deadline · optional	Hạn hoàn thành · không bắt buộc
+Estimated minutes	Thời gian dự kiến (phút)
+Confirm delete	Xác nhận xóa
+Save task	Lưu công việc
+Please check your task details.	Vui lòng kiểm tra thông tin công việc.
+Task updated	Đã cập nhật công việc
+Task added. You can schedule it when you’re ready.	Đã thêm công việc. Bạn có thể xếp lịch khi sẵn sàng.
+Task deleted. Scheduled sessions were kept.	Đã xóa công việc. Các phiên đã lên lịch vẫn được giữ lại.
+NOURISH YOUR DAY	ĂN UỐNG ĐỀU ĐẶN
+A little care, every meal.	Chăm sóc bản thân từ mỗi bữa ăn.
+Simple plans, familiar favorites, and time to enjoy them.	Món quen, lịch gọn và thời gian để thưởng thức.
+Plan a meal	Lên lịch bữa ăn
+Favorites	Món yêu thích
+Meal planner date	Ngày lên lịch bữa ăn
+Your familiar favorites	Những món quen bạn thích
+New template	Thêm mẫu bữa ăn
+A favorite worth making time for.	Một món yêu thích đáng để dành thời gian.
+Estimates	Ước tính
+Your favorites, one tap away	Món yêu thích, thêm vào lịch thật nhanh
+Save a familiar meal, then add it to any day.	Lưu một bữa ăn quen thuộc và dùng lại bất cứ ngày nào.
+Save a meal	Lưu bữa ăn
+Enjoyed	Đã ăn
+A record of little rituals	Ghi lại những bữa ăn mỗi ngày
+Complete a meal on your timeline and it will appear here.	Đánh dấu hoàn thành bữa ăn trên lịch trình để xem lại tại đây.
+A well-fed week	Một tuần ăn uống đều đặn
+No numbers needed. A meal and a time are enough.	Không cần nhập số liệu. Chỉ một bữa ăn và thời gian là đủ.
+No meals planned yet.	Chưa có bữa ăn nào được lên lịch.
+Nutrition values are optional and shown as estimates. Add meal notes, portions, or macros in an activity’s details.	Thông tin dinh dưỡng không bắt buộc và chỉ là ước tính. Bạn có thể lưu dinh dưỡng trong mẫu bữa ăn, thêm khẩu phần và ghi chú trong hoạt động.
+Edit a favorite	Chỉnh sửa món yêu thích
+Save a familiar favorite	Lưu một món quen
+Keep it simple. Nutrition values are completely optional.	Cứ đơn giản thôi. Thông tin dinh dưỡng hoàn toàn không bắt buộc.
+Meal name	Tên bữa ăn
+Cơm gà & vegetables	Cơm gà và rau xanh
+Food, portions, or notes	Món ăn, khẩu phần hoặc ghi chú
+· estimated	· ước tính
+Remove this template? Your planned meals and history will be kept. Click Confirm remove to continue.	Xóa mẫu bữa ăn này? Lịch ăn và lịch sử vẫn được giữ lại. Chọn Xác nhận xóa để tiếp tục.
+Confirm remove	Xác nhận xóa
+Remove	Xóa
+Save favorite	Lưu món yêu thích
+Please check the meal details.	Vui lòng kiểm tra thông tin bữa ăn.
+Meal template saved	Đã lưu mẫu bữa ăn
+Template removed. Planned meals were kept.	Đã xóa mẫu. Các bữa ăn đã lên lịch vẫn được giữ lại.
+SHOW UP FOR YOURSELF	DÀNH THỜI GIAN CHO BẢN THÂN
+Progress at your pace.	Tập đều hơn, khỏe hơn mỗi ngày.
+Plan your movement. Keep a record of how far you’ve come.	Lên lịch vận động và ghi lại từng bước tiến của bạn.
+Create a plan	Tạo giáo án
+Schedule a session	Lên lịch buổi tập
+Your next chance to feel good.	Thêm một cơ hội để bạn thấy khỏe hơn.
+Add exercises whenever you’re ready.	Thêm bài tập khi bạn sẵn sàng.
+more exercises	bài tập khác
+Every session counts	Mỗi buổi tập đều đáng ghi nhận
+Your next good habit	Bắt đầu một thói quen tốt
+Completed workouts and exercise logs will appear here.	Các buổi tập đã hoàn thành và kết quả sẽ xuất hiện ở đây.
+Schedule a workout from one of your plans, or add a session to your timeline.	Lên lịch từ giáo án hoặc thêm một buổi tập vào lịch trình.
+Start session	Bắt đầu tập
+Continue & log	Tiếp tục và ghi kết quả
+Session completed	Đã hoàn thành buổi tập
+Details	Chi tiết
+Edit workout plan	Chỉnh sửa giáo án
+Build your next good habit	Tạo giáo án tập luyện
+A reusable plan. Your scheduled sessions live on the timeline.	Lưu giáo án để dùng lại. Các buổi đã lên lịch sẽ hiển thị trên lịch trình.
+Plan name	Tên giáo án
+Push day	Buổi tập đẩy
+Session type	Loại buổi tập
+Push	Đẩy (ngực, vai, tay sau)
+Pull	Kéo (lưng, tay trước)
+Legs	Chân
+Upper	Thân trên
+Lower	Thân dưới
+Full Body	Toàn thân
+Cardio	Sức bền
+Badminton	Cầu lông
+Rest Day	Ngày nghỉ
+Custom Workout	Tự chọn
+Exercises	Bài tập
+Exercise	Bài tập
+Add exercise	Thêm bài tập
+Bench press	Đẩy ngực với tạ đòn
+Sets	Số hiệp
+Reps	Số lần
+Rest (s)	Nghỉ (giây)
+Remove plan	Xóa giáo án
+Save plan	Lưu giáo án
+Workout session	Buổi tập
+Adjust these numbers to what you actually did. Your progress is personal.	Điền kết quả bạn thực sự tập được. Cứ tiến bộ theo nhịp của mình.
+Weight (kg)	Khối lượng (kg)
+Planned rest:	Thời gian nghỉ dự kiến:
+s between sets	giây giữa các hiệp
+Enjoy your session. Add how it went in your notes below.	Chúc bạn tập vui. Ghi lại cảm nhận ở bên dưới nhé.
+How did it feel?	Buổi tập hôm nay thế nào?
+Energy, form, or a little win…	Thể lực, kỹ thuật hoặc một tiến bộ nho nhỏ…
+Keep session open	Để buổi tập mở
+Complete & save logs	Hoàn thành và lưu kết quả
+Please check the workout details.	Vui lòng kiểm tra thông tin giáo án.
+Workout plan saved	Đã lưu giáo án
+Please check your exercise logs.	Vui lòng kiểm tra kết quả bài tập.
+Plan copied	Đã sao chép giáo án
+Plan removed. Your session history was kept.	Đã xóa giáo án. Lịch sử tập luyện vẫn được giữ lại.
+Session complete. A little stronger, one day at a time.	Đã hoàn thành buổi tập. Mỗi ngày, khỏe hơn một chút!
+MAKE IT YOURS	THEO CÁCH CỦA BẠN
+A rhythm that fits you.	Cài đặt phù hợp với bạn.
+Small preferences that help Life OS understand your day.	Một vài tùy chọn giúp LIFE OS hiểu ngày của bạn hơn.
+The essentials	Thông tin chung
+Your name, your time, your space.	Tên, thời gian và không gian của riêng bạn.
+Display name	Tên hiển thị
+Timezone · IANA name	Múi giờ · tên IANA
+Greeting & AI language	Ngôn ngữ
+Language	Ngôn ngữ
+Navigation and tools currently use English.	Áp dụng cho toàn bộ giao diện và trợ lý AI.
+English	English
+Tiếng Việt	Tiếng Việt
+Theme	Giao diện
+Light	Sáng
+Dark	Tối
+Follow system	Theo hệ thống
+Time format	Định dạng giờ
+24-hour · 16:00	24 giờ · 16:00
+12-hour · 4:00 PM	12 giờ · 4:00 chiều
+Protected time for work and rest.	Dành đủ thời gian cho làm việc và nghỉ ngơi.
+Wake-up time	Giờ thức dậy
+Bedtime	Giờ đi ngủ
+Preferred meal times	Giờ ăn thường ngày
+Best focus hours	Khung giờ tập trung tốt nhất
+Minutes between focus blocks	Thời gian nghỉ giữa các phiên (phút)
+Movement & energy	Vận động và thể lực
+Plan around the way you like to move.	Sắp xếp theo cách vận động bạn yêu thích.
+Preferred workout days	Ngày tập trong tuần
+Session length (minutes)	Thời lượng buổi tập (phút)
+Fitness goals	Mục tiêu tập luyện
+Experience	Kinh nghiệm
+Beginner	Mới bắt đầu
+Intermediate	Đã có kinh nghiệm
+Advanced	Nâng cao
+Food & wellbeing	Ăn uống và sức khỏe
+Everyday preferences for more useful suggestions.	Thói quen thường ngày giúp gợi ý phù hợp hơn.
+Dietary preferences	Sở thích ăn uống
+Allergies & foods to avoid	Dị ứng và thực phẩm cần tránh
+Meal budget	Ngân sách ăn uống
+Personal goals	Mục tiêu cá nhân
+Gentle reminders	Lời nhắc nhẹ nhàng
+A nudge before your next activity.	Nhắc bạn trước khi hoạt động bắt đầu.
+In-app reminders work while Life OS is open. Browser notifications also need this page to stay open.	Lời nhắc trong ứng dụng hoạt động khi LIFE OS đang mở. Thông báo trình duyệt cũng cần giữ trang này mở.
+Browser notifications are enabled.	Đã bật thông báo trình duyệt.
+Notifications are blocked. You can change permission in your browser’s site settings.	Thông báo đang bị chặn. Bạn có thể đổi quyền trong phần cài đặt trang web của trình duyệt.
+This browser does not support notifications.	Trình duyệt này không hỗ trợ thông báo.
+Browser notifications are optional. Enable them when you’re ready.	Thông báo trình duyệt không bắt buộc. Bạn có thể bật khi cần.
+Enable browser notifications	Bật thông báo trình duyệt
+Notifications enabled	Đã bật thông báo
+Browser reminders enabled while Life OS is open	Đã bật thông báo khi LIFE OS đang mở
+Notification preference saved	Đã lưu tùy chọn thông báo
+This browser could not enable notifications. In-app reminders are still available.	Chưa thể bật thông báo trình duyệt. Lời nhắc trong ứng dụng vẫn hoạt động.
+Your preferences are included when you ask the AI to plan.	AI sẽ dùng các tùy chọn này khi bạn yêu cầu sắp xếp lịch.
+Save preferences	Lưu cài đặt
+Please enter a valid timezone, such as Asia/Ho_Chi_Minh.	Nhập múi giờ hợp lệ, ví dụ Asia/Ho_Chi_Minh.
+Please check your preferences.	Vui lòng kiểm tra các tùy chọn.
+Preferences saved	Đã lưu cài đặt
+A LITTLE HELP GOES A LONG WAY	CÙNG BẠN SẮP XẾP MỖI NGÀY
+A good day starts with a plan.	Một ngày nhẹ nhàng bắt đầu từ lịch rõ ràng.
+Tell me what’s on your mind. We’ll find a little room for it.	Kể điều bạn muốn làm, mình sẽ cùng tìm thời gian phù hợp.
+Plan a day	Lên lịch một ngày
+Plan a week	Lên lịch một tuần
+Planning period	Khoảng thời gian lên lịch
+A little clarity for one day	Sắp xếp gọn gàng cho một ngày
+Your day, thoughtfully arranged.	Một ngày được sắp xếp theo ý bạn.
+Your week, thoughtfully arranged.	Một tuần được sắp xếp theo ý bạn.
+A proposal first. You always make the final call.	Xem gợi ý trước, bạn luôn là người quyết định.
+What would you like to plan?	Bạn muốn sắp xếp lịch thế nào?
+Tomorrow I have classes from 7 to 11:30. Help me find time for 90 minutes at the gym, 3 hours of project work, and an hour of English…	Mai mình học từ 7h đến 11h30, muốn tập gym 90 phút, làm project 3 tiếng và học tiếng Anh 1 tiếng. Sắp xếp giúp mình nhé…
+AI plan date	Ngày bắt đầu kế hoạch AI
+fixed activities protected	lịch cố định được giữ nguyên
+Finding your rhythm…	Đang sắp xếp lịch phù hợp…
+Create my plan	Tạo kế hoạch
+Balanced	Cân bằng
+Focus, movement, and room to breathe.	Có giờ tập trung, vận động và nghỉ ngơi.
+Productive	Tập trung
+Give your important work a little more space.	Ưu tiên thời gian cho việc quan trọng.
+Relaxed	Thư thả
+A gentler day, with longer breaks.	Nhịp ngày nhẹ nhàng hơn, nghỉ lâu hơn.
+Connect Gemini to bring your planner to life.	Kết nối Gemini để bắt đầu dùng trợ lý AI.
+Add	Thêm
+to	vào
+and restart the app. Your timeline and all other tools work without AI.	và khởi động lại ứng dụng. Lịch trình và các công cụ khác vẫn hoạt động khi chưa có AI.
+A little pause in planning	Chưa thể tạo kế hoạch
+Your current schedule has not changed.	Lịch hiện tại của bạn vẫn được giữ nguyên.
+YOUR PROPOSED PLAN	KẾ HOẠCH ĐƯỢC ĐỀ XUẤT
+A little more clarity.	Lịch gợi ý dành cho bạn.
+Preview · not applied	Xem trước · chưa áp dụng
+· Fixed	· Cố định
+What changes	Những thay đổi dự kiến
+This plan needs a small adjustment.	Kế hoạch này cần điều chỉnh một chút.
+Regenerate	Tạo lại
+Finish editing	Xong chỉnh sửa
+Edit plan	Chỉnh sửa kế hoạch
+Accept plan	Chấp nhận kế hoạch
+Proposal dismissed. Your schedule is unchanged.	Đã hủy đề xuất. Lịch của bạn không thay đổi.
+Your real schedule	Dựa trên lịch thực tế
+Plans begin with your existing activities, deadlines, and preferences.	Kế hoạch bắt đầu từ hoạt động, hạn công việc và thói quen hiện có của bạn.
+The important things stay	Giữ nguyên điều quan trọng
+Fixed commitments stay protected. Conflicts are checked before applying.	Lịch cố định được giữ nguyên. Xung đột được kiểm tra trước khi áp dụng.
+You’re always in control	Bạn luôn quyết định
+Review every block, adjust the details, then accept when it feels right.	Xem từng hoạt động, chỉnh chi tiết và chỉ chấp nhận khi bạn thấy phù hợp.
+Plan accepted. Your timeline is ready.	Đã áp dụng kế hoạch. Lịch trình của bạn đã được cập nhật.
+Your schedule changed while this proposal was open. Generate a fresh proposal before applying it.	Lịch đã thay đổi trong lúc xem đề xuất. Hãy tạo đề xuất mới trước khi áp dụng.
+The planner is taking a break. Please try again.	Trợ lý AI đang tạm nghỉ. Vui lòng thử lại.
+The planner returned an incomplete proposal. Please try again.	Đề xuất AI chưa đầy đủ. Vui lòng thử lại.
+We couldn’t reach the planner. Your schedule is unchanged.	Chưa thể kết nối trợ lý AI. Lịch của bạn vẫn được giữ nguyên.
+Mon	T2
+Tue	T3
+Wed	T4
+Thu	T5
+Fri	T6
+Sat	T7
+Sun	CN
+Monday	Thứ Hai
+Tuesday	Thứ Ba
+Wednesday	Thứ Tư
+Thursday	Thứ Năm
+Friday	Thứ Sáu
+Saturday	Thứ Bảy
+Sunday	Chủ Nhật
+Let’s get you back on track.	Cùng mở lại lịch của bạn nhé.
+Something interrupted this view. Your saved activities are still here.	Trang này vừa gặp trục trặc. Các hoạt động đã lưu vẫn được giữ nguyên.
+Try again	Thử lại
+Making room for your day…	Đang chuẩn bị lịch của bạn…
+Give your activity a name.	Hãy đặt tên cho hoạt động.
+Choose a valid date.	Vui lòng chọn ngày hợp lệ.
+Choose a valid date and time.	Vui lòng chọn ngày giờ hợp lệ.
+Use a valid 24-hour time.	Nhập giờ hợp lệ theo định dạng 24 giờ.
+Choose a valid deadline.	Vui lòng chọn hạn hoàn thành hợp lệ.
+Choose a valid timezone.	Vui lòng chọn múi giờ hợp lệ.
+The end must be after the start. Choose the next date for an overnight activity.	Thời điểm kết thúc phải sau lúc bắt đầu. Nếu qua nửa đêm, hãy chọn ngày kết thúc tiếp theo.
+The recurrence must end on or after its first date.	Ngày kết thúc lặp phải từ ngày bắt đầu trở đi.
+This local time does not exist in the selected timezone. Choose another time.	Giờ này không tồn tại trong múi giờ đã chọn do thay đổi giờ mùa hè. Vui lòng chọn giờ khác.
+An activity contains an invalid date or time.	Một hoạt động có ngày giờ chưa hợp lệ.
+The proposal contains duplicate activity IDs.	Đề xuất có hoạt động bị trùng mã.
+The existing calendar contains an invalid activity. Please review its date and time.	Lịch hiện tại có hoạt động chưa hợp lệ. Hãy kiểm tra lại ngày giờ.
+Loading your workspace…	Đang tải dữ liệu của bạn…
+This browser could not save your changes. Export a backup before closing.	Trình duyệt chưa thể lưu thay đổi. Hãy xuất bản sao lưu trước khi đóng trang.
+Saved data could not be opened. The original is still in this browser; new changes use a separate recovery copy. Export a backup before clearing browser storage.	Chưa thể mở dữ liệu đã lưu. Bản gốc vẫn ở trong trình duyệt; thay đổi mới được lưu vào bản phục hồi riêng. Hãy sao lưu trước khi xóa dữ liệu trình duyệt.
+Saved workspace metadata is invalid.	Thông tin bản lưu chưa hợp lệ.
+Saving to cloud…	Đang đồng bộ lên đám mây…
+Cloud save unavailable. Changes remain saved on this device.	Chưa thể đồng bộ. Thay đổi vẫn được lưu trên thiết bị này.
+Your account changed while syncing. Retry to open the correct workspace; your device copy is safe.	Tài khoản đã thay đổi trong khi đồng bộ. Hãy thử lại để mở đúng dữ liệu; bản trên thiết bị vẫn an toàn.
+All changes saved	Đã lưu mọi thay đổi
+Cloud sync timed out. Your changes are kept on this device; retry when your connection is ready.	Đồng bộ mất quá nhiều thời gian. Thay đổi vẫn ở trên thiết bị; hãy thử lại khi có kết nối.
+Cloud save unavailable. Your device copy is safe.	Chưa thể đồng bộ. Bản trên thiết bị vẫn an toàn.
+Saved on this device · sync needs attention	Đã lưu trên thiết bị · cần kiểm tra đồng bộ
+Demo workspace · saved on this device	Không gian trải nghiệm · đã lưu trên thiết bị
+Local workspace · saved on this device	Không gian cá nhân · đã lưu trên thiết bị
+Opening cloud workspace…	Đang mở dữ liệu đám mây…
+Cloud workspace unavailable.	Chưa thể mở dữ liệu đám mây.
+Your account changed while opening this workspace. Retry to load the correct account.	Tài khoản đã thay đổi khi mở dữ liệu. Hãy thử lại để tải đúng tài khoản.
+This device has unsynced changes. Choose which copy to keep before cloud sync continues.	Thiết bị có thay đổi chưa đồng bộ. Hãy chọn bản muốn giữ để tiếp tục đồng bộ.
+Device changes kept · recovery needed	Đã giữ thay đổi trên thiết bị · cần chọn bản dữ liệu
+The cloud workspace took too long to open. Your device copy is available; retry when your connection is ready.	Mở dữ liệu đám mây mất quá nhiều thời gian. Bạn có thể dùng bản trên thiết bị và thử lại khi kết nối ổn định.
+Cloud unavailable. Your device copy has been kept.	Chưa thể kết nối đám mây. Bản trên thiết bị vẫn được giữ lại.
+Offline copy · cloud sync unavailable	Bản ngoại tuyến · chưa thể đồng bộ đám mây
+Connection settings could not be checked. Local saving is available.	Chưa thể kiểm tra kết nối. Bạn vẫn có thể lưu trên thiết bị.
+Changes saved on this device…	Đã lưu thay đổi trên thiết bị…
+The cloud copy could not be backed up on this device. Export a backup or free browser storage before choosing a replacement.	Chưa thể sao lưu bản đám mây trên thiết bị. Hãy xuất bản sao lưu hoặc giải phóng bộ nhớ trình duyệt trước khi thay thế.
+The device copy could not be backed up. Export your workspace before choosing the cloud copy.	Chưa thể sao lưu bản trên thiết bị. Hãy xuất dữ liệu trước khi chọn bản đám mây.
+Unable to open the saved workspace. Your current activities have been kept.	Chưa thể mở dữ liệu đã lưu. Các hoạt động hiện tại vẫn được giữ nguyên.
+Add Supabase settings to enable cloud sync. Your local data is still available.	Cấu hình Supabase để bật đồng bộ đám mây. Dữ liệu trên thiết bị vẫn có thể sử dụng.
+Sign in to load your cloud data.	Đăng nhập để mở dữ liệu đám mây.
+Cloud data could not be loaded. Check your connection and database setup.	Chưa tải được dữ liệu đám mây. Hãy kiểm tra kết nối và cấu hình cơ sở dữ liệu.
+Your cloud data needs a compatible app version. Your local copy has been kept.	Dữ liệu đám mây cần phiên bản ứng dụng tương thích. Bản trên thiết bị vẫn được giữ lại.
+Cloud sync is temporarily unavailable. Your local data has been kept.	Đồng bộ đám mây đang tạm gián đoạn. Dữ liệu trên thiết bị vẫn được giữ lại.
+This request could not be verified. Refresh Life OS and try again.	Chưa thể xác minh yêu cầu. Hãy tải lại LIFE OS và thử lại.
+Cloud sync is not configured. Your changes remain saved locally.	Chưa cấu hình đồng bộ đám mây. Thay đổi vẫn được lưu trên thiết bị.
+Sign in again to sync your changes. Your local data has been kept.	Đăng nhập lại để đồng bộ. Dữ liệu trên thiết bị vẫn được giữ lại.
+This backup is too large to sync in one request.	Bản sao lưu quá lớn để đồng bộ trong một lần.
+This sync request is incomplete. Please try again.	Yêu cầu đồng bộ chưa đầy đủ. Vui lòng thử lại.
+Some data could not be validated. Your local copy has been kept.	Một phần dữ liệu chưa hợp lệ. Bản trên thiết bị vẫn được giữ lại.
+The signed-in account changed. Your local data has been kept; sign in to the intended account before syncing.	Tài khoản đăng nhập đã thay đổi. Dữ liệu trên thiết bị vẫn được giữ lại; hãy đăng nhập đúng tài khoản trước khi đồng bộ.
+This workspace contains sample or duplicate record identifiers. Keep demo data separate and use new activities in your personal workspace before syncing.	Dữ liệu có mã hoạt động mẫu hoặc mã trùng. Hãy giữ lịch mẫu riêng và dùng các hoạt động mới trong không gian cá nhân trước khi đồng bộ.
+Your cloud data changed on another device. Load the latest cloud copy before syncing again.	Dữ liệu đã thay đổi trên thiết bị khác. Hãy tải bản đám mây mới nhất trước khi đồng bộ lại.
+Changes could not be synced. Check your connection and database setup; your local copy is safe.	Chưa thể đồng bộ thay đổi. Hãy kiểm tra kết nối và cấu hình cơ sở dữ liệu; bản trên thiết bị vẫn an toàn.
+Cloud sync is temporarily unavailable. Your local changes have been kept.	Đồng bộ đám mây đang tạm gián đoạn. Thay đổi trên thiết bị vẫn được giữ lại.
+AI Planner needs a Gemini API key on the server. You can keep planning your day manually.	Trợ lý AI cần khóa Gemini trên máy chủ. Bạn vẫn có thể tự lên lịch bình thường.
+Refresh Life OS before requesting a plan.	Hãy tải lại LIFE OS trước khi yêu cầu lập kế hoạch.
+This planning request could not be verified.	Chưa thể xác minh yêu cầu lập kế hoạch.
+Sign in before using AI Planner.	Đăng nhập trước khi dùng trợ lý AI.
+Configure Supabase sign-in before enabling AI Planner on a hosted app.	Cấu hình đăng nhập Supabase trước khi bật trợ lý AI trên ứng dụng đã triển khai.
+You have requested several plans. Please wait a few minutes before trying again.	Bạn vừa tạo nhiều yêu cầu. Hãy chờ vài phút rồi thử lại nhé.
+There is too much data in this request. Choose a smaller set of activities for this planning request.	Yêu cầu có quá nhiều dữ liệu. Hãy chọn ít hoạt động hơn cho lần lập kế hoạch này.
+Your planning request was incomplete. Please try again.	Yêu cầu lập kế hoạch chưa đầy đủ. Vui lòng thử lại.
+Check your planning request, date and routine settings before trying again.	Kiểm tra yêu cầu, ngày và thói quen sinh hoạt trước khi thử lại.
+The configured AI model is unavailable. Check the server settings.	Mô hình AI đã cấu hình chưa khả dụng. Hãy kiểm tra cài đặt máy chủ.
+The AI service is busy. Please try again in a few minutes.	Dịch vụ AI đang bận. Vui lòng thử lại sau vài phút.
+The AI service could not create a plan. Your schedule has not changed.	Dịch vụ AI chưa thể tạo kế hoạch. Lịch của bạn vẫn được giữ nguyên.
+AI could not finish a reliable plan. Try a shorter request; your schedule has not changed.	AI chưa thể hoàn thành một kế hoạch đáng tin cậy. Hãy thử yêu cầu ngắn hơn; lịch vẫn được giữ nguyên.
+AI returned an incomplete plan. Please regenerate; your schedule has not changed.	AI trả về kế hoạch chưa đầy đủ. Hãy tạo lại; lịch vẫn được giữ nguyên.
+AI returned a plan that could not be checked. Please regenerate; your schedule has not changed.	Chưa thể kiểm tra kế hoạch AI trả về. Hãy tạo lại; lịch vẫn được giữ nguyên.
+AI referenced an activity outside this day. Please regenerate the plan.	AI đã tham chiếu hoạt động ngoài khoảng thời gian này. Vui lòng tạo lại kế hoạch.
+AI attempted to change a protected activity. Please regenerate the plan.	AI đề xuất đổi một hoạt động cần giữ nguyên. Vui lòng tạo lại kế hoạch.
+AI proposed an activity outside the requested date range. Please regenerate the plan.	AI đề xuất hoạt động ngoài khoảng ngày đã chọn. Vui lòng tạo lại kế hoạch.
+AI referenced an unavailable task. Please regenerate the plan.	AI đã tham chiếu công việc không còn khả dụng. Vui lòng tạo lại kế hoạch.
+AI proposed an invalid activity time. Please regenerate the plan.	AI đề xuất giờ chưa hợp lệ. Vui lòng tạo lại kế hoạch.
+AI proposed a duplicate activity. Please regenerate the plan.	AI đề xuất hoạt động trùng lặp. Vui lòng tạo lại kế hoạch.
+This proposal conflicts with your commitments or routine. Your schedule has not changed.	Đề xuất này xung đột với lịch cố định hoặc thói quen của bạn. Lịch hiện tại vẫn được giữ nguyên.
+Adjusted to fit your request and existing commitments.	Điều chỉnh theo yêu cầu và các lịch hiện có của bạn.
+AI took too long to respond. Please try again; your schedule has not changed.	AI phản hồi quá lâu. Vui lòng thử lại; lịch của bạn vẫn được giữ nguyên.
+AI Planner is temporarily unavailable. Your schedule has not changed.	Trợ lý AI đang tạm gián đoạn. Lịch của bạn vẫn được giữ nguyên.
+The sign-in link is missing or expired. Request a new one.	Liên kết đăng nhập bị thiếu hoặc đã hết hạn. Hãy yêu cầu liên kết mới.
+The sign-in link has expired. Request a new one.	Liên kết đăng nhập đã hết hạn. Hãy yêu cầu liên kết mới.
+Sign-in is temporarily unavailable. Please try again.	Đăng nhập đang tạm gián đoạn. Vui lòng thử lại.
+Coming up: {p0} at {p1}	Sắp diễn ra: {p0} lúc {p1}
+LIFE OS • Coming up	LIFE OS • Sắp diễn ra
+Complete {p0}	Hoàn thành {p0}
+Copy {p0}	Sao chép {p0}
+Edit {p0}	Chỉnh sửa {p0}
+More options for {p0}	Tùy chọn cho {p0}
+Open {p0}	Mở {p0}
+Plan a meal for {p0}	Lên lịch bữa ăn cho {p0}
+Proposed activity {p0} date	Ngày hoạt động đề xuất {p0}
+Proposed activity {p0} title	Tên hoạt động đề xuất {p0}
+Proposed activity {p0} {p1}	Hoạt động đề xuất {p0} — {p1}
+Remove exercise {p0}	Xóa bài tập {p0}
+Reopen {p0}	Mở lại {p0}
+Signed in as {p0}	Đã đăng nhập với {p0}
+This backup contains {p0} activities and {p1} tasks. It will replace the workspace currently open. Export your current data first if you want to keep it.	Bản sao lưu có {p0} hoạt động và {p1} công việc. Dữ liệu này sẽ thay thế không gian đang mở. Hãy xuất dữ liệu hiện tại trước nếu bạn muốn giữ lại.
+View {p0}	Xem {p0}
+Your {p0}	Lịch của bạn — {p0}
+{p0} exercises logged · {p1} sets	Đã ghi {p0} bài tập · {p1} hiệp
+meals.planned	Đã lên lịch {count} bữa ăn
+{p0} min before	Trước {p0} phút
+{p0} open tasks. Your deadlines and your schedule, thoughtfully separate.	Bạn còn {p0} công việc. Hạn hoàn thành và giờ thực hiện được quản lý riêng.
+{p0}: {p1} overlaps {p2}	{p0}: {p1} trùng giờ với {p2}
+~{p0} kcal from meals with data · estimates, not a daily target	Khoảng {p0} kcal từ các bữa có số liệu · chỉ là ước tính, không phải mục tiêu hằng ngày
+“{p0}” falls outside your waking hours.	“{p0}” nằm ngoài khung giờ sinh hoạt của bạn.
+“{p0}” finishes after its task deadline.	“{p0}” kết thúc sau hạn hoàn thành công việc.
+“{p0}” is a recurring series. Propose a dated occurrence instead of replacing the series.	“{p0}” là lịch lặp. Hãy đề xuất đổi một buổi cụ thể thay vì thay cả lịch.
+“{p0}” is fixed and cannot be moved, unlocked or skipped.	“{p0}” có giờ cố định, không thể dời, bỏ cố định hoặc bỏ qua.
+“{p0}” must be proposed as individual dates, not an unbounded recurring series.	“{p0}” cần được đề xuất theo từng ngày, không phải lịch lặp không giới hạn.
+“{p0}” must end after it starts.	“{p0}” phải kết thúc sau thời điểm bắt đầu.
+“{p0}” on {p1}: {p2}	“{p0}” vào {p1}: {p2}
+“{p0}” overlaps “{p1}”.	“{p0}” trùng giờ với “{p1}”.
+“{p0}” repeats for more than two years. Shorten this series before changing timezone.	“{p0}” lặp hơn 2 năm. Hãy rút ngắn lịch lặp trước khi đổi múi giờ.
+g protein	g chất đạm
+to yourself	để nghỉ ngơi
+more	khác
+activities on this day.	hoạt động trong ngày này.
+No	Không có
+Good morning	Chào buổi sáng
+Good afternoon	Chào buổi chiều
+Good evening	Chào buổi tối
+greeting.morning	Chào buổi sáng, {name} ☀️
+greeting.afternoon	Chào buổi chiều, {name}.
+greeting.evening	Chào buổi tối, {name} 🌙
+dashboard.summary	Hôm nay bạn có {activities} hoạt động và {tasks} công việc cần hoàn thành.
+dashboard.selectedSummary	Ngày này có {activities} hoạt động và {tasks} công việc cần hoàn thành.
+duration.hours	{hours} giờ
+duration.minutes	{minutes} phút
+duration.both	{hours} giờ {minutes} phút
+duration.remaining	Còn {duration}
+duration.days	+{days} ngày
+status.activeRemaining	ĐANG LÀM · CÒN {minutes} PHÚT
+progress.summary	Đã hoàn thành {completed}/{total} hoạt động
+calendar.more	+{count} hoạt động khác
+tasks.sessions	{count} phiên đã lên lịch
+workout.exercise	Bài tập {count}
+workout.more	+{count} bài tập khác
+workout.rest	Nghỉ dự kiến: {seconds} giây giữa các hiệp
+meal.macros	{value} g chất đạm
+Today.relative	Hôm nay
+Tomorrow.relative	Ngày mai
+Yesterday.relative	Hôm qua
+validation.required	Vui lòng điền thông tin này.
+validation.invalid	Thông tin chưa hợp lệ. Vui lòng kiểm tra lại.
+validation.tooSmall	Giá trị phải từ {minimum} trở lên.
+validation.tooBig	Giá trị không được vượt quá {maximum}.
+validation.tooShort	Cần nhập ít nhất {minimum} ký tự.
+validation.tooLong	Chỉ được nhập tối đa {maximum} ký tự.
+validation.invalidEmail	Vui lòng nhập địa chỉ email hợp lệ.
+validation.passwordLength	Mật khẩu cần ít nhất {minimum} ký tự.
+error.generic	Chưa thể thực hiện yêu cầu. Vui lòng thử lại; dữ liệu đã lưu vẫn được giữ nguyên.
+error.invalidCredentials	Email hoặc mật khẩu chưa đúng. Vui lòng kiểm tra lại.
+error.emailNotConfirmed	Bạn cần xác nhận email trước khi đăng nhập.
+error.alreadyRegistered	Email này đã được đăng ký. Bạn có thể đăng nhập hoặc đặt lại mật khẩu.
+error.rateLimit	Bạn thao tác hơi nhanh. Hãy chờ một chút rồi thử lại nhé.
+error.network	Chưa thể kết nối. Hãy kiểm tra mạng rồi thử lại.
+quick.ambiguous	Chưa rõ thời gian bạn muốn nói. Vui lòng chọn ngày, buổi và giờ chính xác bên dưới trước khi lưu.
+quick.review	Đã điền nháp. Bạn kiểm tra lại ngày giờ và tên hoạt động trước khi lưu nhé.
+quick.incomplete	Vui lòng bổ sung ngày giờ chính xác bên dưới. Chưa có gì được lưu.
+quick.ambiguousHour	Bạn muốn {hour} giờ sáng hay {afternoon} giờ chiều/tối?
+ai.clarificationTitle	Mình cần bạn làm rõ một chút
+ai.clarificationHint	Trả lời trong ô yêu cầu rồi tạo kế hoạch lại. Chưa có lịch nào được thay đổi.
+notFound.title	Không tìm thấy trang này
+notFound.description	Trang có thể đã đổi địa chỉ. Hãy quay lại lịch trình của bạn nhé.
+notFound.home	Về lịch trình
+Show all activities	Xem tất cả hoạt động
+Make movement a ritual	Tạo thói quen vận động
+Create your first plan	Tạo giáo án đầu tiên
+Friend	Bạn
+demo.morning	Thư giãn đầu ngày
+demo.walk	Đi dạo buổi sáng · bắt đầu nhẹ nhàng
+demo.java	Lập trình Java
+demo.javaDescription	Chương 4 · Tư duy hướng đối tượng
+demo.breakfast	Bữa sáng và chút thời gian thong thả
+demo.breakfastDescription	Bánh mì trứng · cà phê đá
+demo.project	Phát triển LIFE OS
+demo.projectDescription	Xây dựng lịch trình · tập trung từng phần một
+demo.lunch	Nghỉ trưa
+demo.lunchDescription	Cơm gà · rau xanh · nghỉ ngơi đầy đủ
+demo.assignment	Bài tập Java
+demo.assignmentDescription	Luyện tập kế thừa và hoàn thành bài tập
+demo.workoutDescription	Ngực · vai · tay sau
+demo.dinner	Bữa tối ở nhà
+demo.dinnerDescription	Bữa ăn đơn giản, thời gian bên người thân
+demo.english	Học tiếng Anh mỗi ngày
+demo.englishDescription	Đọc một chương và luyện nói
+demo.rest	Thư giãn cuối ngày
+demo.restDescription	Đặt màn hình xuống · chuẩn bị cho ngày mai
+demo.room	Phòng A302
+demo.check1	Xác định các trạng thái lịch trình
+demo.check2	Xây dựng khối hoạt động
+demo.check3	Kiểm tra trải nghiệm trên điện thoại
+demo.taskDescription	Hoàn thành bài tập chương 4 và nộp lên hệ thống môn học.
+demo.review	Đánh giá dự án LIFE OS
+demo.reviewDescription	Chuẩn bị phần giới thiệu lịch trình.
+demo.chickenDescription	Cơm, gà và rau theo mùa. Dinh dưỡng chỉ là ước tính.
+demo.banhmiDescription	Bánh mì trứng với dưa leo và rau thơm. Dinh dưỡng chỉ là ước tính.
+demo.planDescription	Ngực, vai và tay sau. Chọn mức tạ phù hợp với kinh nghiệm của bạn.
+demo.shoulder	Đẩy vai với tạ
+demo.triceps	Kéo cáp tay sau
+app.title	LIFE OS — Cuộc sống gọn gàng theo cách riêng
+app.description	Quản lý lịch học, công việc, bữa ăn và tập luyện trong một lịch trình rõ ràng, nhẹ nhàng.
+Make a little room for what matters.	Dành thời gian cho điều quan trọng.
+A gym session, a walk, badminton with friends. Start with a plan that feels like you.	Tập gym, đi bộ hay chơi cầu lông cùng bạn bè. Bắt đầu với cách vận động bạn yêu thích.
+copy.suffix	bản sao
+timeline.emptyCategory	Ngày này chưa có hoạt động {category}.
+time.morning	 sáng
+time.noon	 trưa
+time.afternoon	 chiều
+time.evening	 tối
+A little time set aside for this.	Một khoảng thời gian bạn dành cho hoạt động này.

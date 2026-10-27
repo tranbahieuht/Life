@@ -1,0 +1,13 @@
+{
+  "tables": 18,
+  "policies": 72,
+  "constraints": 166,
+  "indexes": 34,
+  "foreign_keys": 24,
+  "checks": 28,
+  "not_null_constraints": 95,
+  "constraint_triggers": 1,
+  "standalone_unique_constraints": 0,
+  "primary_keys": 18,
+  "domain_rpcs": 2
+}
